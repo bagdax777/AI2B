@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "deadline": "1900-01-01",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "title": "First Task",
+      "deadline": "2022-01-01",
+      "completed": false,
+      "archived": false,
+      "id": 2
+    },
+    {
+      "title": "Second Task",
+      "deadline": "2024-01-01",
+      "completed": true,
+      "archived": false,
+      "id": 3
+    }
+  ]
+}
